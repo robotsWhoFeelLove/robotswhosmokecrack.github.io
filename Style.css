@@ -102,12 +102,12 @@ body{
     grid-area: 5/2/6/5;
 }
 a{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-family:'Caveat', cursive;;
     font-size: 30px;
-    color:white;
+    color:black;
 }
 a:visited{
-    color:#f2c530;
+    color:White;
 }
 @media (max-width: 1000px){
     .profile{
