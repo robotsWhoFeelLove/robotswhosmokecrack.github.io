@@ -127,6 +127,24 @@ a:visited{
         font-size: 50pt;
     }
 }    
+@media (max-width:600px) {
+    h1{font-size: 60pt;}
+    h3{
+        margin:150px;
+        order:;
+    }
+    .first{
+        order: 1;
+    }
+    p{
+        font-size:20pt;
+        order: 4;
+
+    }
+    .v-of-fire>p{
+        font-size: 75pt;;
+    }
+}
 .hobbies{
     background-color: #C3DAEF;
 }
