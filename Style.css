@@ -131,7 +131,7 @@ a:visited{
     h1{font-size: 60pt;}
     h3{
         margin:150px;
-        order:;
+        order:2;
     }
     .first{
         order: 1;
